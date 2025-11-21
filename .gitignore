@@ -1,0 +1,21 @@
+# Data files (user data should not be in repo)
+data/
+
+# PHP session files
+sessions/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment files
+.env
